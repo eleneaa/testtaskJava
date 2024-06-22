@@ -7,6 +7,6 @@ public class Main {
         new Tenant("Иван Иванов", studentDormitory);
         new Tenant("Сергей Сергеев", studentDormitory);
 
-        studentDormitory.setNewsChurch("Вас выселяют =(");
+        studentDormitory.setNewsDormitory("Вас выселяют =(");
     }
 }
