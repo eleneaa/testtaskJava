@@ -12,7 +12,7 @@ public class StudentDormitory implements Dormitory{
         tenants = new ArrayList<>();
     }
 
-    public void setNewsChurch(String news) {
+    public void setNewsDormitory(String news) {
         this.newsDormitory = news;
         notifyTenants();
     }
